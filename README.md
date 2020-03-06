@@ -13,6 +13,8 @@ EzInstitute is a clean and Responsive Educational Institute Website HTML Templat
  CSS
 
  JavaScript
+ 
+ BootStrap
 
 
 
